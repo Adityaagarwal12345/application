@@ -1,0 +1,11 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "chai or code ka video 7th ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aditya agarwal",
+  "license": "ISC"
+}
